@@ -10,11 +10,23 @@ understand how prompt quality affects AI responses.
 ### Prompt
 Analyse my retail sales data.
 
+
 ### AI Response
-To be added after testing.
+#To be added after testing.
+Total Revenue: £50,770
+- Total Orders: 60
+- Total Units Sold: 210
+- Best-Selling Product by Revenue: Laptop (£35,700)
+- Highest-Revenue Month: June (£11,620)
+- Highest-Revenue City: London (£15,400)
 
 ### Observations
-To be added after testing.
+The basic prompt produced a sales summary, charts and business insights without specifying the exact output format.
+
+However, the prompt did not define which analyses were required or how results should be presented.
+
+### Learning
+A basic prompt can produce useful insights, but a structured prompt gives greater control over the analysis and presentation.
 
 ## Experiment 2: Structured Prompt
 
