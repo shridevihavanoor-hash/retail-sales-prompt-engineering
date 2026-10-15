@@ -41,6 +41,21 @@ pie showData
     "Mouse" : 950
 ```
 
+### Chart Interpretation
+
+The pie chart shows that laptops contribute
+approximately 70% of total sales revenue.
+
+Monitors contribute approximately 19%, while
+the remaining products contribute around 11%.
+
+This indicates that revenue is highly concentrated
+in laptop sales.
+
+Further analysis of product profitability and
+customer purchasing behaviour would help identify
+opportunities to diversify revenue.
+
 
 ## Experiment 2: Structured Prompt
 
