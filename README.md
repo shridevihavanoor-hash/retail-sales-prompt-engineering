@@ -38,3 +38,34 @@ In progress — Excel analysis available; dashboard, prompt comparison and SQL e
 
 ## Data Note
 This is a synthetic educational dataset, not actual company sales data.
+
+
+## Excel Data Analytics and Interactive Dashboard
+
+### Project Overview
+Analysed 60 retail sales orders using Microsoft Excel to understand product performance, city-wise revenue and sales trends.
+
+### Excel Skills Demonstrated
+- **Formulas:** SUM, COUNTA, AVERAGE, MAX, MIN, SUMIF, COUNTIF, SUMIFS, COUNTIFS, AVERAGEIF, XLOOKUP and IF.
+- **Pivot Tables:** Analysed revenue and units sold by product and city.
+- **Pivot Charts:** Created visual comparisons of product revenue and city revenue.
+- **Interactive Slicers:** Enabled product-based filtering across multiple Pivot Charts.
+- **Dynamic KPIs:** Developed three indicators that update with the selected product.
+
+### Key Findings
+- Total Sales Revenue: £50,770
+- Total Orders: 60
+- Total Units Sold: 210
+- Highest-Revenue Product: Laptop (£35,700)
+- Highest-Revenue City: London (£15,400)
+
+### Interactive Excel Dashboard
+
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
+
+### Project Files
+- `retail_sales_project.xlsx` — Excel calculations, Pivot Tables, Pivot Charts and dashboard.
+- `Retail_Sales_Dashboard.png` — Screenshot of the dashboard.
+
+### Tools Used
+Microsoft Excel, Pivot Tables, Pivot Charts, Excel Formulas and GitHub.
